@@ -10,7 +10,7 @@ Video demo: https://www.youtube.com/watch?v=-qN_QqywYbY
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/contractwise.git
+git clone https://github.com/acstener/contractwise.git
 
 # Install deps
 npm install
